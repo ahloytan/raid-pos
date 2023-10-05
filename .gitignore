@@ -1,0 +1,7 @@
+backend/node_modules
+frontend-vue/node_modules
+frontend-react/node_modules
+
+backend/package-lock.json
+frontend-vue/package-lock.json
+frontend-react/package-lock.json
